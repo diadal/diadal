@@ -28,7 +28,7 @@ const skills = {
   frontend: ['Vue 3', 'TypeScript', 'JavaScript', 'HTML5', 'CSS3'],
   backend: ['Laravel', 'PHP', 'Node.js', 'RESTful APIs'],
   database: ['MySQL', 'PostgreSQL', 'MongoDB', 'Redis'],
-  tools: ['Git', 'Docker', 'CI/CD', 'Linux'],
+  tools: ['Git', 'Docker', 'CI/CD', 'Linux', 'Cloudflare Zero Trust', 'Cloudflare Workers', 'macOS Server'],
   testing: ['Jest', 'PHPUnit', 'Cypress', 'Playwright'],
   specialties: ['Performance Optimization', 'Security Auditing', 'System Architecture']
 };
