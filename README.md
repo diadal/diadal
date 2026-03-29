@@ -65,7 +65,8 @@ const skills = {
 ## 📈 GitHub Stats
 
 <div align="center">
-![Olaoluwa's GitHub Stats](https://helio-github-stats.vercel.app/api?username=diadal&custom_title=GitHub+Stats&theme=dark&title_color=2f80ed&text_color=ece7e4&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
+
+[![Olaoluwa's GitHub Stats](https://helio-github-stats.vercel.app/api?username=diadal&custom_title=Olaoluwa%27s+GitHub+Stats&theme=dark&title_color=2f80ed&text_color=ece7e4&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
   
 ![Olaoluwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diadal&show_icons=true&theme=radical&count_private=true)
 
