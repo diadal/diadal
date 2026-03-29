@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Peter Temi (@diadal)
+# 👋 Hi, I'm Olaoluwa Oluwaniyi (@diadal)
 
 <div align="center">
   
