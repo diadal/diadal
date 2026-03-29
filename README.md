@@ -66,7 +66,7 @@ const skills = {
 
 <div align="center">
   
-![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diadal&show_icons=true&theme=radical&count_private=true)
+![Olaoluwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diadal&show_icons=true&theme=radical&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diadal&layout=compact&theme=radical&langs_count=10)
 
@@ -99,7 +99,7 @@ const skills = {
 
 ## 💡 Recent Focus
 
-```javascript
+```javaScript
 const currentlyWorkingOn = {
   learning: ['Advanced TypeScript patterns', 'Vue 3 Composition API', 'Laravel 11'],
   building: ['Performance monitoring tools', 'Optimization frameworks'],
