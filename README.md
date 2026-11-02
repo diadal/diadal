@@ -23,6 +23,15 @@
   <a href="https://zedgi.app"><img src="https://img.shields.io/badge/Zedgi.app-TCP_access_for_AI_%26_serverless-6D28D9?style=for-the-badge" alt="ZedGi" /></a>
 </p>
 
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://helio-github-stats.vercel.app/api?username=diadal&show_icons=true&count_private=true&hide_border=true&title_color=2f80ed&icon_color=4c71f2&text_color=57606a&bg_color=ffffff" alt="GitHub stats" />
+  <img height="170" src="https://helio-github-stats.vercel.app/api/top-langs/?username=diadal&layout=compact&langs_count=8&hide_border=true&title_color=2f80ed&text_color=57606a&bg_color=ffffff" alt="Top languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=diadal&hide_border=true&ring=2f80ed&fire=4c71f2&currStreakLabel=2f80ed" alt="GitHub streak" />
+</div>
+
 ### ☁️ Cloudflare Ecosystem
 
 <table>
@@ -184,15 +193,6 @@
     <td>💬 <b><a href="mailto:info@diadal.com.ng">Let's talk →</a></b><br><sub>Available for freelance work and consulting</sub></td>
   </tr>
 </table>
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://helio-github-stats.vercel.app/api?username=diadal&show_icons=true&count_private=true&hide_border=true&title_color=2f80ed&icon_color=4c71f2&text_color=57606a&bg_color=ffffff" alt="GitHub stats" />
-  <img height="170" src="https://helio-github-stats.vercel.app/api/top-langs/?username=diadal&layout=compact&langs_count=8&hide_border=true&title_color=2f80ed&text_color=57606a&bg_color=ffffff" alt="Top languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=diadal&hide_border=true&ring=2f80ed&fire=4c71f2&currStreakLabel=2f80ed" alt="GitHub streak" />
-</div>
 
 ## 💡 Recent Focus
 
